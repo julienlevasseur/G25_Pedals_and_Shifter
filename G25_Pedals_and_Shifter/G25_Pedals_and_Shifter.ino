@@ -73,10 +73,10 @@ Joystick_ joystick(JOYSTICK_DEFAULT_REPORT_ID,JOYSTICK_TYPE_JOYSTICK,
 #define ANALOG_X        A0
 #define ANALOG_Y        A1
 
-#define SHIFTER_X_12      375
+#define SHIFTER_X_12      450
 #define SHIFTER_X_56      650
 #define SHIFTER_Y_135     800
-#define SHIFTER_Y_246     300
+#define SHIFTER_Y_246     375
 
 #define SHIFTER_SEQ_UP_THRES    450
 #define SHIFTER_SEQ_DOWN_THRES  650
